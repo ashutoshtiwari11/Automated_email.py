@@ -1,4 +1,4 @@
-#First create a password in your e.g. google  security section you can create a app password for mail ---- for my computer windows mail section. and keep that password secure.
+#First create a password in your account e.g. google accounts security section you can create a app password for mail ---- for my computer windows mail section. and keep that password secure.
 
 
 
