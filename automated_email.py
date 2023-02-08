@@ -10,8 +10,8 @@ import getpass
 
 import smtplib
 
-print("This is the being print just to show that your file has start running.")
-#("pass ***********")
+print("This is the being print just to show that your file has started running.")
+#("pass **************")
 
 message=EmailMessage() 
 #The line message = EmailMessage() creates an instance of the EmailMessage class from the email module in the Python Standard Library
@@ -19,7 +19,7 @@ message=EmailMessage()
 print(message)
 print("Ya! it seems to be working fine.")
 sender="ashutoshtiwari6143@gmail.com"
-recipient="neerutiwari12345@gmail.com"
+recipient="***********@gmail.com"
 
 #message['From'] is accessing the 'From' header field of an EmailMessage object in Python. note header field are case insensitive.
 
